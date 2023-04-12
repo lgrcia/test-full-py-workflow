@@ -2,5 +2,5 @@
 From the github repo
 
 ```shell
-pip install 'pythonpackage @ git+https://github.com/lgrcia/pythonpackage'
+pip install 'test-full-py-workflow @ git+https://github.com/lgrcia/test-full-py-workflow'
 ```

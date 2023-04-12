@@ -2,18 +2,19 @@
 
 from os import path
 from pathlib import Path
+
 import yaml
 from yaml import Loader
 
 info = print
-pythonpackage = "pythonpackage"
+package_name = "test-full-py-workflow"
 
 
 class ConfigManager:
     def __init__(self):
         self.config = None
 
-        self.folder_path = Path.home() / f".{pythonpackage}"
+        self.folder_path = Path.home() / f".{package_name}"
         self.folder_path.mkdir(exist_ok=True)
 
         self.config_file = self.folder_path / "config"

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pythonpackage"
+name = "test-full-py-workflow"
 version = "0.0.1"
 description = ""
 authors = ["Lionel Garcia <lionel_garcia@live.fr>"]

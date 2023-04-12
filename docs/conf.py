@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "pythonpackage"
+project = "test-full-py-workflow"
 copyright = "2023, Lionel Garcia"
 author = "Lionel Garcia"
 
@@ -59,7 +59,7 @@ html_static_path = ["_static"]
 
 # Mine
 # -------------------
-html_title = "pythonpackage"
+html_title = "test-full-py-workflow"
 
 source_suffix = {
     ".rst": "restructuredtext",
@@ -70,7 +70,7 @@ source_suffix = {
 root_doc = "index"
 
 html_theme_options = {
-    "repository_url": "https://github.com/lgrcia/pythonpackage",
+    "repository_url": "https://github.com/lgrcia/test-full-py-workflow",
     "use_repository_button": True,
 }
 

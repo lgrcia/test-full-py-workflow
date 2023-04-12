@@ -3,10 +3,10 @@
 If you use this package in your work, please cite it using the following bibtex entry:
 
 ```
-@software{pythonpackage,
+@software{test-full-py-workflow,
     author = {Garcia, Lionel},
     license = {MIT},
-    title = {{pythonpackage}},
-    url = {https://github.com/lgrcia/pythonpackage}
+    title = {{test-full-py-workflow}},
+    url = {https://github.com/lgrcia/test-full-py-workflow}
 }
 ```
